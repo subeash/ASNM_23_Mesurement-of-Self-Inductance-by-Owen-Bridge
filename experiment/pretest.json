@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the number of degree of freedom (DOF) in Movemaster RM-501?",
+      "question": "An owen's bridge is used to measure the properties of a sample of sheet steel at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>3</sub>=100Ω;&nbsp;arm cd is C<sub>4</sub>=0.1`uF` and arm da is R<sub>2</sub>=834Ω in series with C<sub>2</sub>=0.124`uF`. Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"image/quiz1.jpg\" style=\"width:450px;height:300px\"></p>",
       "answers": {
-        "a": "5",
-        "b": "6",
-        "c": "7",
-        "d": "None of this"
+        "a": "Z<sub>1</sub>=112Ω",
+        "b": "Z<sub>1</sub>=152Ω",
+        "c": "Z<sub>1</sub>=142Ω",
+        "d": "Z<sub>1</sub>=132Ω"
       },
       "explanations": {
-        "a": "You have choosen option (a). The answer is correct",
-        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
-        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
-        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "What is the maximum paylod of the Robot?",
+      "question": "The AC Bridge used for the measurement of inductance is/are<br/>",
       "answers": {
-        "a": "2 kg",
-        "b": "1.2 kg",
-        "c": "1 kg",
-        "d": "1.5 kg"
+        "a": "Maxwell’s inductance bridge",
+        "b": "Hay’s bridge",
+        "c": "Anderson’s bridge, Owen’s bridge",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
-        "b": "You have choosen option (b). The answer is correct.",
-        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
-        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"

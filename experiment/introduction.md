@@ -1,9 +1,41 @@
 ## Introduction
+## Circuit Diagram:
+<div align="center">
+<img src="images/rm501.jpg" />
 
-The determination of the storage factor Q is one of the most widely used means in the laboratory for testing radio frequency coils, inductors and capacitors. The storage factor is equal to `Q=(omega_0 L)/R` where `omega_0` is the resonant frequency, L is the inductance and R is the effective resistance of the a coil. The effective resistance R, is never determined directly since its value depends upon the value of frequency.
-<p align="center">
+***Fig 1: Circuit Diagram for Measurement of Inductance by Owen's Bridge***
+</div>
+This bridge may be used for measurement of an inductance in terms of capacitance. Fig. 1. shows the connections for this bridge, under balance conditions.
 
-![Rm501 Figure](images/pic1.jpg)
 
-***Fig 1: The practical circuit of unknown coil***
-</p>
+Let,
+  `L_1`= Unknown self Inductance of resistance `R_1`,
+
+`R_2`= Variable non-inductive resistance,
+
+`R_3`= Fixed non-inductive resistance,
+
+`C_2`= Variable standard capacitor,
+
+`C_4`= Fixed standard capacitor.
+
+At balance condition, 
+
+<div align="center">
+`(R_1 +jomegaL_1)*(1/(jomegaC_4)) = (R_2 + 1/(jomegaC_2))*R_3 ........(1)`
+
+</div>
+ </br>
+
+Equating both the real and imaginary parts in eq.`(1)` and seperating them,
+<div align="center">
+
+`L_1 = R_2R_3C_4 ........(2)`
+
+
+`R_1 = R_3*C_4/C_2 ........(3)`
+
+</div>
+The balance may be obtained by variation of resistance `R_2` and capacitor `C_2`.
+
+

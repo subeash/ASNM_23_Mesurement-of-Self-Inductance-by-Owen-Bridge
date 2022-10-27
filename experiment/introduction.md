@@ -1,7 +1,7 @@
 ## Introduction
 ## Circuit Diagram:
 <div align="center">
-<img src="images/rm501.jpg" />
+<img src="images/owen_bridge_capacitance_theory8_upload.jpg" />
 
 ***Fig 1: Circuit Diagram for Measurement of Inductance by Owen's Bridge***
 </div>

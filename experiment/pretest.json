@@ -32,7 +32,7 @@
         "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
         "d": "You have choosen option (d). The answer is correct."
       },
-      "correctAnswer": "b",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

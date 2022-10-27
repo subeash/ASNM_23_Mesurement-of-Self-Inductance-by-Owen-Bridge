@@ -7,8 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Mesurement-of-Self-Inductance-by-Owen-Bridge
-**
+<b> Experiment|     <b> **Mesurement-of-Self-Inductance-by-Owen-Bridge**
 
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
